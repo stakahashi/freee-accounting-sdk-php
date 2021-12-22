@@ -41,5 +41,6 @@
             "Freee\\Accounting\\Test\\": "test/"
         }
     },
-    "type": "library"
+    "type": "library",
+    "minimum-stability": "dev"
 }
